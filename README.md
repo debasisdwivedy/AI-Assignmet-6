@@ -1,1 +1,2 @@
-# a6
+# a6  
+Image orientation using neural networks.
